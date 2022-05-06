@@ -1,0 +1,3 @@
+print("Welcome to GARY GOODINS BAD V1.0! AUTHORIZED USERS ONLY!")
+usen = input("Please input your username: ")
+psw = input("Please input your Password: ")
