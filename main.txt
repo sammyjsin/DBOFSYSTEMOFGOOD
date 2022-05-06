@@ -1,0 +1,10 @@
+print("I see you have logged into the program successfully! \n Congradulations! Below are the options!")
+juan = input(" 1) Learn how to Shit \n 2) Learn how to Piss \n 3) Learn how to Fart \n")
+if juan == str(1):
+  print("JUST EAT FOOD AND POOP! EASY!")
+elif juan == str(2):
+ print("DRINK WATER AND PISS ON THE TEACHER AT SCHOOL! FOR A K!")
+elif juan == str(3):
+  print("EAT BEAN YAY")
+else:
+  print("YOUR A DUMB BITCH DIE IN FIRE")
